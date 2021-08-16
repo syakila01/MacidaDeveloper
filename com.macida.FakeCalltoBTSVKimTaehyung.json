@@ -1,0 +1,85 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "ca-app-pub-8074230319419198/4554857292",
+      "admob_native": "ca-app-pub-8074230319419198/1928693952",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "com.macida.FakeCalltoBTSVKimTaehyung",
+      "interval":5
+      }
+   ],
+
+  "More":
+  [
+    
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"BTS V Kim Taehyung",
+      "image_url":"file:///android_asset/pic1.png",
+      "video_url":"vid1",
+      "voice_url":"voc1.mp3"
+    },
+	{
+      "id":2,
+      "name":"BTS V Kim Taehyung",
+      "image_url":"file:///android_asset/pic2.png",
+      "video_url":"vid2",
+      "voice_url":"voc1.mp3"
+    },
+	{
+      "id":3,
+      "name":"BTS V Kim Taehyung",
+      "image_url":"file:///android_asset/pic3.png",
+      "video_url":"vid3",
+      "voice_url":"voc1.mp3"
+    },
+	{
+      "id":4,
+      "name":"BTS V Kim Taehyung",
+      "image_url":"file:///android_asset/pic4.png",
+      "video_url":"vid4",
+      "voice_url":"voc1.mp3"
+    },{
+      "id":5,
+      "name":"BTS V Kim Taehyung",
+      "image_url":"file:///android_asset/pic5.png",
+      "video_url":"vid5",
+      "voice_url":"voc1.mp3"
+    },{
+      "id":6,
+      "name":"BTS V Kim Taehyung",
+      "image_url":"file:///android_asset/pic6.png",
+      "video_url":"vid6",
+      "voice_url":"voc1.mp3"
+    },{
+      "id":7,
+      "name":"BTS V Kim Taehyung",
+      "image_url":"file:///android_asset/pic7.png",
+      "video_url":"vid7",
+      "voice_url":"voc1.mp3"
+    },{
+      "id":8,
+      "name":"BTS V Kim Taehyung",
+      "image_url":"file:///android_asset/pic8.png",
+      "video_url":"vid8",
+      "voice_url":"voc1.mp3"
+    },{
+      "id":9,
+      "name":"BTS V Kim Taehyung",
+      "image_url":"file:///android_asset/pic9.png",
+      "video_url":"vid9",
+      "voice_url":"voc1.mp3"
+    }
+  ]
+
+}
