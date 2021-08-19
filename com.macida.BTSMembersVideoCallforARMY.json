@@ -25,54 +25,54 @@
     {
       "id":1,
       "name":"BTS V",
-      "image_url":"file:///android_asset/1v.png",
-      "video_url":"1v",
-      "voice_url":"1v.mp3"
+      "image_url":"file:///android_asset/v1.png",
+      "video_url":"v1",
+      "voice_url":"v1.mp3"
     },
 	{
       "id":2,
       "name":"BTS Jin",
-      "image_url":"file:///android_asset/2jin.png",
-      "video_url":"2jin",
-      "voice_url":"2jin.mp3"
+      "image_url":"file:///android_asset/jin2.png",
+      "video_url":"jin2",
+      "voice_url":"jin2.mp3"
     },
 	{
       "id":3,
       "name":"BTS Jimin",
-      "image_url":"file:///android_asset/3jimin.png",
-      "video_url":"3jimin",
-      "voice_url":"3jimin.mp3"
+      "image_url":"file:///android_asset/jimin3.png",
+      "video_url":"jimin3",
+      "voice_url":"jimin3.mp3"
     },
 	{
       "id":4,
       "name":"BTS Jungkook",
-      "image_url":"file:///android_asset/4jungkook.png",
-      "video_url":"4jungkook",
-      "voice_url":"4jungkook.mp3"
+      "image_url":"file:///android_asset/jungkook4.png",
+      "video_url":"jungkook4",
+      "voice_url":"jungkook4.mp3"
     },{
       "id":5,
       "name":"BTS Suga",
-      "image_url":"file:///android_asset/5suga.png",
-      "video_url":"5suga",
-      "voice_url":"5suga.mp3"
+      "image_url":"file:///android_asset/suga5.png",
+      "video_url":"suga5",
+      "voice_url":"suga5.mp3"
     },{
       "id":6,
       "name":"BTS RM",
-      "image_url":"file:///android_asset/6rm.png",
-      "video_url":"6rm",
-      "voice_url":"6rm.mp3"
+      "image_url":"file:///android_asset/rm6.png",
+      "video_url":"rm6",
+      "voice_url":"rm6.mp3"
     },{
       "id":7,
       "name":"BTS Jhope",
-      "image_url":"file:///android_asset/7jhope.png",
-      "video_url":"7jhope",
-      "voice_url":"7jhope.mp3"
+      "image_url":"file:///android_asset/jhope7.png",
+      "video_url":"jhope7",
+      "voice_url":"jhope7.mp3"
     },{
       "id":8,
       "name":"BTS Members",
-      "image_url":"file:///android_asset/8all.png",
-      "video_url":"8all",
-      "voice_url":"8all.mp3"
+      "image_url":"file:///android_asset/all8.png",
+      "video_url":"all8",
+      "voice_url":"all8.mp3"
     }
   ]
 
