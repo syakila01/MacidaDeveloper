@@ -20,72 +20,534 @@
 [
   {
     "id":1,
-    "title":"luky_cute",
-    "description":"Cikoneng Unity Empire",
-    "image":"http://aliendro.id/uploads/YTAPP/luki.jpg",
-    "videoid":"https://aliendro.id/uploads/demo/chatboot/footbal.mov"
+    "title":"Jimin",
+    "description":"BTS Member",
+    "image":"file:///android_asset/alienboot/pic1.png",
+    "videoid":"vid1"
   },
   {
   "id":2,
-  "title":"sofan_dianto",
-  "description":"Nano Studio",
-  "image":"http://aliendro.id/uploads/YTAPP/sofan.jpg",
-  "videoid":"https://aliendro.id/uploads/demo/chatboot/flower.mov"
+  "title":"Jimin",
+  "description":"BTS Member",
+  "image":"file:///android_asset/alienboot/pic2.png",
+  "videoid":"vid2"
   },
   {
     "id":3,
-    "title":"henry_jie",
-    "description":"Motivator Kuli Panggul",
-    "image":"http://aliendro.id/uploads/YTAPP/henri.jpg",
-    "videoid":"https://aliendro.id/uploads/demo/chatboot/footbal.mov"
+    "title":"Jimin",
+    "description":"BTS Member",
+    "image":"file:///android_asset/alienboot/pic3.png",
+    "videoid":"vid3"
   },
   {
   "id":4,
-  "title":"mr_kim",
-  "description":"Reskin Aliendroid",
-  "image":"file:///android_asset/13.jpeg",
-  "videoid":"https://aliendro.id/uploads/demo/chatboot/flower3.mov"
-},
-  {
-  "id":4,
-  "title":"young_fahmi_lex",
-  "description":"Wakil Ketua Umum IMNU",
-  "image":"file:///android_asset/alienboot/image/fahmi.jpg",
-  "videoid":"https://aliendro.id/uploads/demo/chatboot/footbal.mov"
+  "title":"Jimin",
+  "description":"BTS Member",
+  "image":"file:///android_asset/alienboot/pic4.png",
+  "videoid":"vid4"
 }
 ],
   "Wallpaper":
   [
     {
       "id":1,
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+      "title":"BTS Jimin 01",
+      "image":"file:///android_asset/alienboot/image/imxx01.jpg"
     },
     {
-      "id": 2,
-      "title": "River",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "id":2,
+      "title":"BTS Jimin 02",
+      "image":"file:///android_asset/alienboot/image/imxx02.jpg"
     },
     {
       "id":3,
-      "title":"Mountain",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+      "title":"BTS Jimin 03",
+      "image":"file:///android_asset/alienboot/image/imxx03.jpg"
     },
     {
       "id":4,
-      "title":"Cute Cat",
-      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-    }
-  ,
+      "title":"BTS Jimin 04",
+      "image":"file:///android_asset/alienboot/image/imxx04.jpg"
+    },
     {
       "id":5,
-      "title":"Dog",
-      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+      "title":"BTS Jimin 05",
+      "image":"file:///android_asset/alienboot/image/imxx05.jpg"
     },
     {
       "id":6,
-      "title":"Super Car",
-      "image":"file:///android_asset/alienboot/image/car.jpg"
+      "title":"BTS Jimin 06",
+      "image":"file:///android_asset/alienboot/image/imxx06.jpg"
+    },
+    {
+      "id":7,
+      "title":"BTS Jimin 07",
+      "image":"file:///android_asset/alienboot/image/imxx07.jpg"
+    },
+    {
+      "id":8,
+      "title":"BTS Jimin 08",
+      "image":"file:///android_asset/alienboot/image/imxx08.jpg"
+    },
+    {
+      "id":9,
+      "title":"BTS Jimin 09",
+      "image":"file:///android_asset/alienboot/image/imxx09.jpg"
+    },
+    {
+      "id":10,
+      "title":"BTS Jimin 10",
+      "image":"file:///android_asset/alienboot/image/imxx10.jpg"
+    },
+	{
+      "id":11,
+      "title":"BTS Jimin 11",
+      "image":"file:///android_asset/alienboot/image/imxx11.jpg"
+    },
+    {
+      "id":12,
+      "title":"BTS Jimin 12",
+      "image":"file:///android_asset/alienboot/image/imxx12.jpg"
+    },
+    {
+      "id":13,
+      "title":"BTS Jimin 13",
+      "image":"file:///android_asset/alienboot/image/imxx13.jpg"
+    },
+    {
+      "id":14,
+      "title":"BTS Jimin 14",
+      "image":"file:///android_asset/alienboot/image/imxx14.jpg"
+    },
+    {
+      "id":15,
+      "title":"BTS Jimin 15",
+      "image":"file:///android_asset/alienboot/image/imxx15.jpg"
+    },
+    {
+      "id":16,
+      "title":"BTS Jimin 16",
+      "image":"file:///android_asset/alienboot/image/imxx16.jpg"
+    },
+    {
+      "id":17,
+      "title":"BTS Jimin 17",
+      "image":"file:///android_asset/alienboot/image/imxx17.jpg"
+    },
+    {
+      "id":18,
+      "title":"BTS Jimin 18",
+      "image":"file:///android_asset/alienboot/image/imxx18.jpg"
+    },
+    {
+      "id":19,
+      "title":"BTS Jimin 19",
+      "image":"file:///android_asset/alienboot/image/imxx19.jpg"
+    },
+    {
+      "id":20,
+      "title":"BTS Jimin 20",
+      "image":"file:///android_asset/alienboot/image/imxx20.jpg"
+    },
+	{
+      "id":21,
+      "title":"BTS Jimin 21",
+      "image":"file:///android_asset/alienboot/image/imxx21.jpg"
+    },
+    {
+      "id":22,
+      "title":"BTS Jimin 22",
+      "image":"file:///android_asset/alienboot/image/imxx22.jpg"
+    },
+    {
+      "id":23,
+      "title":"BTS Jimin 23",
+      "image":"file:///android_asset/alienboot/image/imxx23.jpg"
+    },
+    {
+      "id":24,
+      "title":"BTS Jimin 24",
+      "image":"file:///android_asset/alienboot/image/imxx24.jpg"
+    },
+    {
+      "id":25,
+      "title":"BTS Jimin 25",
+      "image":"file:///android_asset/alienboot/image/imxx25.jpg"
+    },
+    {
+      "id":26,
+      "title":"BTS Jimin 26",
+      "image":"file:///android_asset/alienboot/image/imxx26.jpg"
+    },
+    {
+      "id":27,
+      "title":"BTS Jimin 27",
+      "image":"file:///android_asset/alienboot/image/imxx27.jpg"
+    },
+    {
+      "id":28,
+      "title":"BTS Jimin 28",
+      "image":"file:///android_asset/alienboot/image/imxx28.jpg"
+    },
+    {
+      "id":29,
+      "title":"BTS Jimin 29",
+      "image":"file:///android_asset/alienboot/image/imxx29.jpg"
+    },
+    {
+      "id":30,
+      "title":"BTS Jimin 30",
+      "image":"file:///android_asset/alienboot/image/imxx30.jpg"
+    },
+	{
+      "id":31,
+      "title":"BTS Jimin 31",
+      "image":"file:///android_asset/alienboot/image/imxx31.jpg"
+    },
+    {
+      "id":32,
+      "title":"BTS Jimin 32",
+      "image":"file:///android_asset/alienboot/image/imxx32.jpg"
+    },
+    {
+      "id":33,
+      "title":"BTS Jimin 33",
+      "image":"file:///android_asset/alienboot/image/imxx33.jpg"
+    },
+    {
+      "id":34,
+      "title":"BTS Jimin 34",
+      "image":"file:///android_asset/alienboot/image/imxx34.jpg"
+    },
+    {
+      "id":35,
+      "title":"BTS Jimin 35",
+      "image":"file:///android_asset/alienboot/image/imxx35.jpg"
+    },
+    {
+      "id":36,
+      "title":"BTS Jimin 36",
+      "image":"file:///android_asset/alienboot/image/imxx36.jpg"
+    },
+    {
+      "id":37,
+      "title":"BTS Jimin 37",
+      "image":"file:///android_asset/alienboot/image/imxx37.jpg"
+    },
+    {
+      "id":38,
+      "title":"BTS Jimin 38",
+      "image":"file:///android_asset/alienboot/image/imxx38.jpg"
+    },
+    {
+      "id":39,
+      "title":"BTS Jimin 39",
+      "image":"file:///android_asset/alienboot/image/imxx39.jpg"
+    },
+    {
+      "id":40,
+      "title":"BTS Jimin 40",
+      "image":"file:///android_asset/alienboot/image/imxx40.jpg"
+    },
+	{
+      "id":41,
+      "title":"BTS Jimin 41",
+      "image":"file:///android_asset/alienboot/image/imxx41.jpg"
+    },
+    {
+      "id":42,
+      "title":"BTS Jimin 42",
+      "image":"file:///android_asset/alienboot/image/imxx42.jpg"
+    },
+    {
+      "id":43,
+      "title":"BTS Jimin 43",
+      "image":"file:///android_asset/alienboot/image/imxx43.jpg"
+    },
+    {
+      "id":44,
+      "title":"BTS Jimin 44",
+      "image":"file:///android_asset/alienboot/image/imxx44.jpg"
+    },
+    {
+      "id":45,
+      "title":"BTS Jimin 45",
+      "image":"file:///android_asset/alienboot/image/imxx45.jpg"
+    },
+    {
+      "id":46,
+      "title":"BTS Jimin 46",
+      "image":"file:///android_asset/alienboot/image/imxx46.jpg"
+    },
+    {
+      "id":47,
+      "title":"BTS Jimin 47",
+      "image":"file:///android_asset/alienboot/image/imxx47.jpg"
+    },
+    {
+      "id":48,
+      "title":"BTS Jimin 48",
+      "image":"file:///android_asset/alienboot/image/imxx48.jpg"
+    },
+    {
+      "id":49,
+      "title":"BTS Jimin 49",
+      "image":"file:///android_asset/alienboot/image/imxx49.jpg"
+    },
+    {
+      "id":50,
+      "title":"BTS Jimin 50",
+      "image":"file:///android_asset/alienboot/image/imxx50.jpg"
+    },
+	{
+      "id":51,
+      "title":"BTS Jimin 51",
+      "image":"file:///android_asset/alienboot/image/imxx51.jpg"
+    },
+    {
+      "id":52,
+      "title":"BTS Jimin 52",
+      "image":"file:///android_asset/alienboot/image/imxx52.jpg"
+    },
+    {
+      "id":53,
+      "title":"BTS Jimin 53",
+      "image":"file:///android_asset/alienboot/image/imxx53.jpg"
+    },
+    {
+      "id":54,
+      "title":"BTS Jimin 54",
+      "image":"file:///android_asset/alienboot/image/imxx54.jpg"
+    },
+    {
+      "id":55,
+      "title":"BTS Jimin 55",
+      "image":"file:///android_asset/alienboot/image/imxx55.jpg"
+    },
+    {
+      "id":56,
+      "title":"BTS Jimin 56",
+      "image":"file:///android_asset/alienboot/image/imxx56.jpg"
+    },
+    {
+      "id":57,
+      "title":"BTS Jimin 57",
+      "image":"file:///android_asset/alienboot/image/imxx57.jpg"
+    },
+    {
+      "id":58,
+      "title":"BTS Jimin 58",
+      "image":"file:///android_asset/alienboot/image/imxx58.jpg"
+    },
+    {
+      "id":59,
+      "title":"BTS Jimin 59",
+      "image":"file:///android_asset/alienboot/image/imxx59.jpg"
+    },
+    {
+      "id":60,
+      "title":"BTS Jimin 60",
+      "image":"file:///android_asset/alienboot/image/imxx60.jpg"
+    },
+	{
+      "id":61,
+      "title":"BTS Jimin 61",
+      "image":"file:///android_asset/alienboot/image/imxx61.jpg"
+    },
+    {
+      "id":62,
+      "title":"BTS Jimin 62",
+      "image":"file:///android_asset/alienboot/image/imxx62.jpg"
+    },
+    {
+      "id":63,
+      "title":"BTS Jimin 63",
+      "image":"file:///android_asset/alienboot/image/imxx63.jpg"
+    },
+    {
+      "id":64,
+      "title":"BTS Jimin 64",
+      "image":"file:///android_asset/alienboot/image/imxx64.jpg"
+    },
+    {
+      "id":65,
+      "title":"BTS Jimin 65",
+      "image":"file:///android_asset/alienboot/image/imxx65.jpg"
+    },
+    {
+      "id":66,
+      "title":"BTS Jimin 66",
+      "image":"file:///android_asset/alienboot/image/imxx66.jpg"
+    },
+    {
+      "id":67,
+      "title":"BTS Jimin 67",
+      "image":"file:///android_asset/alienboot/image/imxx67.jpg"
+    },
+    {
+      "id":68,
+      "title":"BTS Jimin 68",
+      "image":"file:///android_asset/alienboot/image/imxx68.jpg"
+    },
+    {
+      "id":69,
+      "title":"BTS Jimin 69",
+      "image":"file:///android_asset/alienboot/image/imxx69.jpg"
+    },
+    {
+      "id":70,
+      "title":"BTS Jimin 70",
+      "image":"file:///android_asset/alienboot/image/imxx70.jpg"
+    },
+	{
+      "id":71,
+      "title":"BTS Jimin 71",
+      "image":"file:///android_asset/alienboot/image/imxx71.jpg"
+    },
+    {
+      "id":72,
+      "title":"BTS Jimin 72",
+      "image":"file:///android_asset/alienboot/image/imxx72.jpg"
+    },
+    {
+      "id":73,
+      "title":"BTS Jimin 73",
+      "image":"file:///android_asset/alienboot/image/imxx73.jpg"
+    },
+    {
+      "id":74,
+      "title":"BTS Jimin 74",
+      "image":"file:///android_asset/alienboot/image/imxx74.jpg"
+    },
+    {
+      "id":75,
+      "title":"BTS Jimin 75",
+      "image":"file:///android_asset/alienboot/image/imxx75.jpg"
+    },
+    {
+      "id":76,
+      "title":"BTS Jimin 76",
+      "image":"file:///android_asset/alienboot/image/imxx76.jpg"
+    },
+    {
+      "id":77,
+      "title":"BTS Jimin 77",
+      "image":"file:///android_asset/alienboot/image/imxx77.jpg"
+    },
+    {
+      "id":78,
+      "title":"BTS Jimin 78",
+      "image":"file:///android_asset/alienboot/image/imxx78.jpg"
+    },
+    {
+      "id":79,
+      "title":"BTS Jimin 79",
+      "image":"file:///android_asset/alienboot/image/imxx79.jpg"
+    },
+    {
+      "id":80,
+      "title":"BTS Jimin 80",
+      "image":"file:///android_asset/alienboot/image/imxx80.jpg"
+    },
+	{
+      "id":81,
+      "title":"BTS Jimin 81",
+      "image":"file:///android_asset/alienboot/image/imxx81.jpg"
+    },
+    {
+      "id":82,
+      "title":"BTS Jimin 82",
+      "image":"file:///android_asset/alienboot/image/imxx82.jpg"
+    },
+    {
+      "id":83,
+      "title":"BTS Jimin 83",
+      "image":"file:///android_asset/alienboot/image/imxx83.jpg"
+    },
+    {
+      "id":84,
+      "title":"BTS Jimin 84",
+      "image":"file:///android_asset/alienboot/image/imxx84.jpg"
+    },
+    {
+      "id":85,
+      "title":"BTS Jimin 85",
+      "image":"file:///android_asset/alienboot/image/imxx85.jpg"
+    },
+    {
+      "id":86,
+      "title":"BTS Jimin 86",
+      "image":"file:///android_asset/alienboot/image/imxx86.jpg"
+    },
+    {
+      "id":87,
+      "title":"BTS Jimin 87",
+      "image":"file:///android_asset/alienboot/image/imxx87.jpg"
+    },
+    {
+      "id":88,
+      "title":"BTS Jimin 88",
+      "image":"file:///android_asset/alienboot/image/imxx88.jpg"
+    },
+    {
+      "id":89,
+      "title":"BTS Jimin 89",
+      "image":"file:///android_asset/alienboot/image/imxx89.jpg"
+    },
+    {
+      "id":90,
+      "title":"BTS Jimin 90",
+      "image":"file:///android_asset/alienboot/image/imxx90.jpg"
+    },
+	{
+      "id":91,
+      "title":"BTS Jimin 91",
+      "image":"file:///android_asset/alienboot/image/imxx91.jpg"
+    },
+    {
+      "id":92,
+      "title":"BTS Jimin 92",
+      "image":"file:///android_asset/alienboot/image/imxx92.jpg"
+    },
+    {
+      "id":93,
+      "title":"BTS Jimin 93",
+      "image":"file:///android_asset/alienboot/image/imxx93.jpg"
+    },
+    {
+      "id":94,
+      "title":"BTS Jimin 94",
+      "image":"file:///android_asset/alienboot/image/imxx94.jpg"
+    },
+    {
+      "id":95,
+      "title":"BTS Jimin 95",
+      "image":"file:///android_asset/alienboot/image/imxx95.jpg"
+    },
+    {
+      "id":96,
+      "title":"BTS Jimin 96",
+      "image":"file:///android_asset/alienboot/image/imxx96.jpg"
+    },
+    {
+      "id":97,
+      "title":"BTS Jimin 97",
+      "image":"file:///android_asset/alienboot/image/imxx97.jpg"
+    },
+    {
+      "id":98,
+      "title":"BTS Jimin 98",
+      "image":"file:///android_asset/alienboot/image/imxx98.jpg"
+    },
+    {
+      "id":99,
+      "title":"BTS Jimin 99",
+      "image":"file:///android_asset/alienboot/image/imxx99.jpg"
+    },
+    {
+      "id":100,
+      "title":"BTS Jimin 100",
+      "image":"file:///android_asset/alienboot/image/imxx100.jpg"
     }
   ]
 }
