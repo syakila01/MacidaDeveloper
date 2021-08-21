@@ -23,28 +23,28 @@
     "title":"Jimin",
     "description":"BTS Member",
     "image":"file:///android_asset/alienboot/pic1.png",
-    "videoid":"vid1"
+    "videoid":"file:///android_asset/alienboot/vid1.mp4"
   },
   {
   "id":2,
   "title":"Jimin",
   "description":"BTS Member",
   "image":"file:///android_asset/alienboot/pic2.png",
-  "videoid":"vid2"
+  "videoid":"file:///android_asset/alienboot/vid2.mp4"
   },
   {
     "id":3,
     "title":"Jimin",
     "description":"BTS Member",
     "image":"file:///android_asset/alienboot/pic3.png",
-    "videoid":"vid3"
+    "videoid":"file:///android_asset/alienboot/vid3.mp4"
   },
   {
   "id":4,
   "title":"Jimin",
   "description":"BTS Member",
   "image":"file:///android_asset/alienboot/pic4.png",
-  "videoid":"vid4"
+  "videoid":"file:///android_asset/alienboot/vid4.mp4"
 }
 ],
   "Wallpaper":
