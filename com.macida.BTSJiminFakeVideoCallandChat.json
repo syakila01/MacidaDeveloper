@@ -20,30 +20,37 @@
 [
   {
     "id":1,
-    "title":"Jimin1",
-    "description":"BTS Member",
-    "image":"file:///android_asset/pic1.png",
+    "title":"luky_cute",
+    "description":"Cikoneng Unity Empire",
+    "image":"http://aliendro.id/uploads/YTAPP/luki.jpg",
     "videoid":"https://aliendro.id/uploads/demo/chatboot/footbal.mov"
   },
   {
   "id":2,
-  "title":"Jimin2",
-  "description":"BTS Member",
-  "image":"file:///android_asset/pic2.png",
-  "videoid":"https://aliendro.id/uploads/demo/chatboot/footbal.mov"
+  "title":"sofan_dianto",
+  "description":"Nano Studio",
+  "image":"http://aliendro.id/uploads/YTAPP/sofan.jpg",
+  "videoid":"https://aliendro.id/uploads/demo/chatboot/flower.mov"
   },
   {
     "id":3,
-    "title":"Jimin3",
-    "description":"BTS Member",
-    "image":"file:///android_asset/pic3.png",
+    "title":"henry_jie",
+    "description":"Motivator Kuli Panggul",
+    "image":"http://aliendro.id/uploads/YTAPP/henri.jpg",
     "videoid":"https://aliendro.id/uploads/demo/chatboot/footbal.mov"
   },
   {
   "id":4,
-  "title":"Jimin4",
-  "description":"BTS Member",
-  "image":"file:///android_asset/pic4.png",
+  "title":"mr_kim",
+  "description":"Reskin Aliendroid",
+  "image":"file:///android_asset/13.jpeg",
+  "videoid":"https://aliendro.id/uploads/demo/chatboot/flower3.mov"
+},
+  {
+  "id":4,
+  "title":"young_fahmi_lex",
+  "description":"Wakil Ketua Umum IMNU",
+  "image":"file:///android_asset/alienboot/image/fahmi.jpg",
   "videoid":"https://aliendro.id/uploads/demo/chatboot/footbal.mov"
 }
 ],
@@ -51,53 +58,34 @@
   [
     {
       "id":1,
-      "title":"BTS Jimin 01",
-      "image":"file:///android_asset/alienboot/image/imxx01.jpg"
+      "title":"Waterfall",
+      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
     },
     {
-      "id":2,
-      "title":"BTS Jimin 02",
-      "image":"file:///android_asset/alienboot/image/imxx02.jpg"
+      "id": 2,
+      "title": "River",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
     },
     {
       "id":3,
-      "title":"BTS Jimin 03",
-      "image":"file:///android_asset/alienboot/image/imxx03.jpg"
+      "title":"Mountain",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
     },
     {
       "id":4,
-      "title":"BTS Jimin 04",
-      "image":"file:///android_asset/alienboot/image/imxx04.jpg"
-    },
+      "title":"Cute Cat",
+      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    }
+  ,
     {
       "id":5,
-      "title":"BTS Jimin 05",
-      "image":"file:///android_asset/alienboot/image/imxx05.jpg"
+      "title":"Dog",
+      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
     },
     {
       "id":6,
-      "title":"BTS Jimin 06",
-      "image":"file:///android_asset/alienboot/image/imxx06.jpg"
-    },
-    {
-      "id":7,
-      "title":"BTS Jimin 07",
-      "image":"file:///android_asset/alienboot/image/imxx07.jpg"
-    },
-    {
-      "id":8,
-      "title":"BTS Jimin 08",
-      "image":"file:///android_asset/alienboot/image/imxx08.jpg"
-    },
-    {
-      "id":9,
-      "title":"BTS Jimin 09",
-      "image":"file:///android_asset/alienboot/image/imxx09.jpg"
-    },
-    {
-      "id":10,
-      "title":"BTS Jimin 10",
-      "image":"file:///android_asset/alienboot/image/imxx10.jpg"
+      "title":"Super Car",
+      "image":"file:///android_asset/alienboot/image/car.jpg"
     }
   ]
 }
