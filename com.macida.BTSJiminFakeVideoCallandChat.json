@@ -23,28 +23,28 @@
     "title":"BTS Jimin",
     "description":"BTS Member1",
     "image":"file:///android_asset/alienboot/pic1.jpg",
-    "videoid":"file:///android_asset/alienboot/vid1.mp4"
+    "videoid":"vid1.mp4"
   },
   {
   "id":2,
   "title":"Park Jimin",
   "description":"BTS Member2",
   "image":"file:///android_asset/alienboot/pic2.jpg",
-  "videoid":"file:///android_asset/alienboot/vid2.mp4"
+  "videoid":"vid2.mp4"
   },
   {
     "id":3,
     "title":"Jimin",
     "description":"BTS Member3",
     "image":"file:///android_asset/alienboot/pic3.jpg",
-    "videoid":"file:///android_asset/alienboot/vid3.mp4"
+    "videoid":"vid3.mp4"
   },
   {
   "id":4,
   "title":"Jimin BTS",
   "description":"BTS Member4",
   "image":"file:///android_asset/alienboot/pic4.jpg",
-  "videoid":"file:///android_asset/alienboot/vid4.mp4"
+  "videoid":"vid4.mp4"
 }
 ],
   "Wallpaper":
