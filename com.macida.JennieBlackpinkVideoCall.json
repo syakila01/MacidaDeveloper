@@ -1,0 +1,67 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "ca-app-pub-8074230319419198/455485729x",
+      "admob_native": "ca-app-pub-8074230319419198/192869395x",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "com.macida.JennieBlackpinkVideoCall",
+      "interval":5
+      }
+   ],
+
+  "More":
+  [
+    
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Jennie Blackpink",
+      "image_url":"file:///android_asset/pic1.jpg",
+      "video_url":"vid1",
+      "voice_url":"voc1.mp3"
+    },
+	{
+      "id":2,
+      "name":"Jennie Blackpink",
+      "image_url":"file:///android_asset/pic2.jpg",
+      "video_url":"vid2",
+      "voice_url":"voc1.mp3"
+    },
+	{
+      "id":3,
+      "name":"Jennie Blackpink",
+      "image_url":"file:///android_asset/pic3.jpg",
+      "video_url":"vid3",
+      "voice_url":"voc1.mp3"
+    },
+	{
+      "id":4,
+      "name":"Jennie Blackpink",
+      "image_url":"file:///android_asset/pic4.jpg",
+      "video_url":"vid4",
+      "voice_url":"voc1.mp3"
+    },{
+      "id":5,
+      "name":"Jennie Blackpink",
+      "image_url":"file:///android_asset/pic5.jpg",
+      "video_url":"vid5",
+      "voice_url":"voc1.mp3"
+    },{
+      "id":6,
+      "name":"Jennie Blackpink",
+      "image_url":"file:///android_asset/pic6.jpg",
+      "video_url":"vid6",
+      "voice_url":"voc1.mp3"
+    }
+  ]
+
+}
