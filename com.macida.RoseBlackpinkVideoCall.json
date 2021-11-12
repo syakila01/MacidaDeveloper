@@ -5,14 +5,14 @@
       "link_redirect": "https://play.google.com/store/apps/details?id=",
       "admob_inter": "ca-app-pub-8074230319419198/455485729x",
       "admob_native": "ca-app-pub-8074230319419198/192869395x",
-      "startappid": "",
-      "select_ads": "ADMOB",
+      "startappid": "210708590",
+      "select_ads": "STARTAPP",
       "select_backup_ads":"FACEBOOK",
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
       "packagename": "com.macida.RoseBlackpinkVideoCall",
-      "interval":5
+      "interval":3
       }
    ],
 
