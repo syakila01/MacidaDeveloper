@@ -3,8 +3,8 @@
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "admob_inter": "ca-app-pub-8074230319419198/455485729x",
-      "admob_native": "ca-app-pub-8074230319419198/192869395x",
+      "admob_inter": "ca-app-pub-xxxx/4xxxx",
+      "admob_native": "ca-app-pub-8xxx/19xxxx",
       "startappid": "",
       "select_ads": "ADMOB",
       "select_backup_ads":"FACEBOOK",
