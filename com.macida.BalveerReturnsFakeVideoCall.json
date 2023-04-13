@@ -12,11 +12,11 @@
         "value": 0,
 
         "appId_appKey_publisherId_gameId": "-",
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "mrec": "ca-app-pub-3940256099942544/6300978111",
-        "inter": "ca-app-pub-3940256099942544/1033173712",
-        "native_ad": "ca-app-pub-3940256099942544/2247696110",
-        "open_ad": "ca-app-pub-3940256099942544/3419835294",
+        "banner": "ca-app-pub-xxxxx/xxxxx",
+        "mrec": "ca-app-pub-xxxxx/xxxx",
+        "inter": "ca-app-pub-xxxxx/xxxxx",
+        "native_ad": "ca-app-pub-xxxx4/22xxx0",
+        "open_ad": "ca-app-pub-39402xxx2544/3419xxxx294",
         "splash_ad": false
       }
     ]
