@@ -3,8 +3,8 @@
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
-      "admob_inter": "ca-app-pub-7872936815477317/2877490335",
-      "admob_native": "ca-app-pub-7872936815477317/5312081981",
+      "admob_inter": "ca-app-pub-787xx77317/28774xx335",
+      "admob_native": "ca-app-pub-787xx15477317/5xx1981",
       "startappid": "210899834",
       "select_ads": "ADMOB",
       "select_backup_ads":"STARTAPP",
